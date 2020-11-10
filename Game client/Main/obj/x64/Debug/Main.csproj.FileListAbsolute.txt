@@ -1,0 +1,30 @@
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\bin\x64\Debug\Main.exe.config
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\bin\x64\Debug\Main.exe
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\bin\x64\Debug\Main.pdb
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.Properties.Resources.resources
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.csproj.GenerateResource.cache
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.exe
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.pdb
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.csprojAssemblyReference.cache
+C:\Users\ClayMan\Desktop\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.Shop.resources
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\bin\x64\Debug\Main.exe.config
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\bin\x64\Debug\Main.exe
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\bin\x64\Debug\Main.pdb
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.csprojAssemblyReference.cache
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.Shop.resources
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.Properties.Resources.resources
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.csproj.GenerateResource.cache
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.csproj.CoreCompileInputs.cache
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.exe
+E:\Университет\3.2\Разработка и анализ требований\Курсовая работа\Game client\Main\obj\x64\Debug\Main.pdb
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\bin\x64\Debug\Main.exe.config
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\bin\x64\Debug\Main.exe
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\bin\x64\Debug\Main.pdb
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\obj\x64\Debug\Main.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\obj\x64\Debug\Main.Shop.resources
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\obj\x64\Debug\Main.Properties.Resources.resources
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\obj\x64\Debug\Main.csproj.GenerateResource.cache
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\obj\x64\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\obj\x64\Debug\Main.exe
+C:\Users\SuperPuperPC\Desktop\КПО - лабораторные\Проект\Game client\Main\obj\x64\Debug\Main.pdb
